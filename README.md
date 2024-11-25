@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, cloud enthusi
 
 ---
 -->
+<!--
 ## 🚀 Tech Stack
 
 ### **Languages**
