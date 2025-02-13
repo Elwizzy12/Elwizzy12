@@ -24,9 +24,10 @@ Welcome to my GitHub profile. I'm a seasoned Software Engineer specializing in f
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elwizzy12&show_icons=true&theme=radical&count_private=true" alt="Hans's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elwizzy12&theme=radical" alt="Hans's GitHub Streak Stats" width="48%" /> 
-</div> -->
+</div> 
 
 ---
+-->
 
 ## 🚀 Tech Stack
 
@@ -88,8 +89,9 @@ Welcome to my GitHub profile. I'm a seasoned Software Engineer specializing in f
   A robust cloud application utilizing React, Node.js, and AWS Lambda to deliver high-performance, serverless solutions.
 - **[Project Gamma](https://github.com/elwizzy12/project-gamma)**  
   An innovative AI-driven project leveraging Python and TensorFlow to provide intelligent data analytics and automation.
--->
+
 ---
+-->
 
 ## 📬 Let's Connect!
 
